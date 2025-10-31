@@ -156,10 +156,11 @@
 //     console.log(userNum);
 // }
 
-let arr = ["Muhammad" , "Hassan" , "khan"];
-arr.forEach((val,idx) => {
-   console.log(val.toUpperCase(),idx);
-});
+// let arr = ["Muhammad" , "Hassan" , "khan"];
+// arr.forEach((val,idx) => {
+//    console.log(val.toUpperCase(),idx);
+// });
+
 
 
 
