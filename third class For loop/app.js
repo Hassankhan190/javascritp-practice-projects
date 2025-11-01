@@ -188,3 +188,36 @@
 //         console.log("try again");
 //     }
 // }
+
+// let str = "Hassan khan";
+// console.log(str[7],str[3],str[4]); //ks
+
+// let str = `This is a
+// open the doll in a house
+// Hassankhan
+// `
+
+// console.log(str);
+
+// let str = "Hassan khan";
+// console.log(str.toLowerCase());
+
+// let str = "         apna college           ";
+// console.log(str.trim());
+
+// let str = "apnecollege ";
+// console.log(str.slice(4,11));
+// let str = "Hassan";
+// let str1 = "khan";
+// console.log(str.toUpperCase() + str1.toUpperCase());
+// let str = "hello";
+// console.log(str.replace("h" , "y"));
+
+// let str = "apne college";
+// console.log(str.charAt(3))//e
+
+// let fullName = prompt("Enter your full Name");
+// let full = fullName.length;
+// console.log(`@ ${fullName} ${full}`);
+// let fullName = prompt("Enter your fullName");
+// console.log(fullName.toUpperCase());
