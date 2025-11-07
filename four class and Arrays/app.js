@@ -105,4 +105,70 @@
 // console.log(companiname);
 
 
+// let arr =[23,43,53,83,24];
+// for(let i = 0;i < arr.length;i++){
+//     console.log(arr[i]);
+// }
 
+// let Nam = ["Hassan","khan","wahaj","khan"];
+// for(let i = 0;i < Nam.length;i++){
+//     console.log(Nam[i]);
+// }
+// let marks = [90,89,73,93,83];
+// let sum = 0;
+// for(let val of marks){
+//     sum += val;
+// }
+//  let avg = sum / marks.length;
+// console.log(`your are class average ${avg}`);
+
+// let price = [250,890,300,500,90];
+
+// for(let i = 0; i < price.length;i++){
+//     let offer = price[i] / 10;
+//     price[i] -= offer;
+// }
+//     console.log(price);
+
+// let marks = [50,49,30,58,20,84];
+// for(let i = 0;i < marks.length;i++){
+//     if(marks[i] >= 50){
+//         console.log("you count",marks[i]);
+//     }else{
+//         console.log("not count",marks[i]);
+//     }
+// }
+
+// let fruits = ["apple", "banana", "mango", "avocado", "grapes"];
+
+// for(let fruit of fruits){
+//     if(fruit.startsWith("a")){
+//         console.log(fruit);
+//     }
+// }
+
+// let arr = ["apple","mango","banana","kivi"];
+// console.log(arr.push("Hassan"));
+
+// let arr1 = ["apple","mango","banana","kivi"];
+// console.log(arr1.pop());
+
+// let arr2 = [30,54,38,39,59];
+// console.log(arr2.toString());
+
+// let arr1 = ["apple","mango","banana","kivi"];
+// let arr2 = [30,54,38,39,59];
+// let i = arr1.concat(arr2);
+// console.log(i);
+
+// let arr1 = ["apple","mango","banana","kivi"];
+// console.log(arr1.shift());
+
+// let arr1 = ["apple","mango","banana","kivi"];
+// console.log(arr1.splice(1 , 2 , "Hassan","khan"));
+
+//question answer solve
+let part = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+// console.log(part.shift());
+// console.log(part.splice(2 , 1 , "ola"));
+console.log(part.push("Amazon"))
